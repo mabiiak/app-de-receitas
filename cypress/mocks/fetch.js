@@ -58,6 +58,8 @@ const fetch = (url) => Promise.resolve({
     if (url === 'https://www.themealdb.com/api/json/v1/1/filter.php?a=Italian')
       return Promise.resolve(italianMeals);
 
+    console.log(url)
+
     if (
       url === 'https://www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata' ||
       url === 'https://www.themealdb.com/api/json/v1/1/random.php' ||
