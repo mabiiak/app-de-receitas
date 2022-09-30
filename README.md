@@ -237,13 +237,6 @@ As respostas seguem a mesma estrutura, com algumas particularidades relativas à
       ]
     }
   ```
-  </details>
-
----
-
-Os ingredientes seguem uma ordem lógica onde o nome dele (`strIngredient1`) e a quantidade (`strMeasure1`) tem o mesmo número no final (1, nesse caso).
-
----
 
 </details>
 
@@ -252,7 +245,7 @@ Os ingredientes seguem uma ordem lógica onde o nome dele (`strIngredient1`) e a
     <h3>
       Rotas
     </h3>
-    </summary>
+  </summary>
 
 As rotas a serem utilizadas na aplicação devem ser as seguintes:
 
