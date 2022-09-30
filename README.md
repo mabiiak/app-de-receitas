@@ -1,7 +1,7 @@
 # Boas vindas ao projeto de Receitas!
 Projeto feito durante o curso de desenvolvimento web na trybe.
 
-Foi desenvolvido um app de receitas, utilizando React Hooks e Context API.
+Foi desenvolvido em grupo (Thiago Ximenes, Guilherme Duarte, Meirylan Melo) um app de receitas, utilizando React Hooks e Context API.
 Nele é possível ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks.
 A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
 O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores.
